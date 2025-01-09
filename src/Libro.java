@@ -20,7 +20,7 @@ public class Libro {
         return autore;
     }
     public double getPrezzo(){
-        return prezzo
+        return prezzo;
     }
     public int getPezzi(){
         return pezzi;
