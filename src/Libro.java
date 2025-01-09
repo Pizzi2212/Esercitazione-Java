@@ -13,4 +13,16 @@ public class Libro {
         this.prezzo = prezzo;
         this.pezzi = pezzi;
     }
+    public String getTitolo(){
+        return titolo;
+    }
+    public String getAutore(){
+        return autore;
+    }
+    public double getPrezzo(){
+        return prezzo
+    }
+    public int getPezzi(){
+        return pezzi;
+    }
 }
